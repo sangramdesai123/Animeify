@@ -1,3 +1,3 @@
 # Animeify
 Blog website for anime 
-AIT lab mini project
+AIT lab mini project2
